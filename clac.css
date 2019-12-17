@@ -1,0 +1,9 @@
+body{
+    background-color: skyblue;
+    margin:4%;
+}
+
+.calculator__keys { 
+  display: grid; 
+  /* other necessary CSS */ 
+}
